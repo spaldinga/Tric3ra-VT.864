@@ -32,7 +32,8 @@ mainsail_folder=~/mainsail
 
 ### The branch of the repository that you want to save your config
 ### By default that is 'master'
-branch=Tric3ra-VT.864
+#branch=Tric3ra-VT.864
+branch=master
 
 #####################################################################
 #####################################################################
